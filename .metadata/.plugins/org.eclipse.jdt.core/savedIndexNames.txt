@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\asus\Documents\VSCODE\en -de crypter\.metadata\.plugins\org.eclipse.jdt.core
+1509799344.index
+1031187394.index
+1865797976.index
+341046762.index
